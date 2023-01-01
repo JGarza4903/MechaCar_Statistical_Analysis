@@ -5,7 +5,7 @@ Based on the output of the linear regression, it appears that the variables "veh
 
 The slope of the linear model is not zero, as all of the coefficients in the table are significantly different from zero (as indicated by the significant p-values in the "Pr(>|t|)" column).
 
-
+[](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/linear_regression.png)
 
 As for the effectiveness of the linear model in predicting mpg of MechaCar prototypes, it seems to be fairly effective. The R-squared value of 0.7149 indicates that about 71.5% of the variance in the mpg values can be explained by the model, and the F-statistic of 22.07 with a p-value of 5.35e-11 indicates that the model is significant. However, there is still room for improvement, as the adjusted R-squared value of 0.6825 indicates that some of the variance in the model could be explained by overfitting.
 
