@@ -16,7 +16,7 @@ Based on the data, it appears that the current manufacturing data does not meet 
 
 However, it appears that the current data does meet the design specification for each individual lot. The variance for Lot 1 is 0.98 pounds per square inch, which is below the design specification of 100 pounds per square inch. The variance for Lot 2 is 7.47 pounds per square inch, which is also below the design specification. The same is true for Manufacturing Lot 3, which has a variance of 170.29 pounds per square inch.
 
-![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/Imageslot_summary.png)
+![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
 
 Overall, it seems that the current manufacturing data meets the design specification for each manufacturing lot individually, but not for all manufacturing lots combined. 
 
