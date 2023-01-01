@@ -14,3 +14,13 @@ However, it appears that the current manufacturing data does meet the design spe
 
 Overall, it seems that the current manufacturing data meets the design specification for each manufacturing lot individually, but not for all manufacturing lots combined. 
 
+
+## Study Design: MechaCar vs Competition
+To quantify how the MechaCar performs against the competition, we can conduct a statistical study to compare the fuel efficiency of the MechaCar to that of its competitors. Fuel efficiency is a metric that is of interest to many consumers, as it can impact the cost of owning and operating a vehicle.
+
+For this study, we will compare the city and highway fuel efficiency of the MechaCar to that of its competitors. Our null hypothesis will be that there is no significant difference in fuel efficiency between the MechaCar and its competitors. Our alternative hypothesis will be that the MechaCar has significantly higher fuel efficiency than its competitors.
+
+To test our hypothesis, we will use a two-sample t-test. This statistical test is appropriate for comparing the mean of two independent groups, and it is widely used to compare the means of two groups when the variances are unknown.
+
+To run the statistical test, we will need data on the city and highway fuel efficiency of the MechaCar and its competitors. This data can be obtained through testing or by using data from publicly available sources such as the EPA's Fuel Economy website. We will also need to ensure that the sample size is sufficient to accurately compare the fuel efficiency of the MechaCar and its competitors.
+
