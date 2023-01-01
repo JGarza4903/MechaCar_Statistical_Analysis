@@ -5,18 +5,18 @@ Based on the output of the linear regression, it appears that the variables "veh
 
 The slope of the linear model is not zero, as all of the coefficients in the table are significantly different from zero (as indicated by the significant p-values in the "Pr(>|t|)" column).
 
-![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/linear_regression.png)
+![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/Images/linear_regression.png)
 
 As for the effectiveness of the linear model in predicting mpg of prototypes, it seems to be fairly effective. The R-squared value of 0.7149 indicates that about 71.5% of the variance in the mpg values can be explained by the model, and the F-statistic of 22.07 with a p-value of 5.35e-11 indicates that the model is significant. 
 
 ## Summary Statistics on Suspension Coils
 Based on the data, it appears that the current manufacturing data does not meet the design specification for all manufacturing lots in total. The variance for all manufacturing lots in total is 108.79 pounds per square inch, which exceeds the design specification of 100 pounds per square inch.
 
-![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
+![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png)
 
 However, it appears that the current data does meet the design specification for each individual lot. The variance for Lot 1 is 0.98 pounds per square inch, which is below the design specification of 100 pounds per square inch. The variance for Lot 2 is 7.47 pounds per square inch, which is also below the design specification. The same is true for Manufacturing Lot 3, which has a variance of 170.29 pounds per square inch.
 
-![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
+![](https://github.com/JGarza4903/MechaCar_Statistical_Analysis/blob/main/Imageslot_summary.png)
 
 Overall, it seems that the current manufacturing data meets the design specification for each manufacturing lot individually, but not for all manufacturing lots combined. 
 
